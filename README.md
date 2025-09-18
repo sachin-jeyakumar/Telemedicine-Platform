@@ -91,13 +91,6 @@ A lightweight telemedicine mobile/web platform connecting rural patients with do
 
 ---
 
-## 🏆 Deliverables for Hackathon
-
-- 📂 **GitHub Repository:** (to be added) – Contains frontend, backend & deployment scripts
-- 🎥 **Demo Video (2–5 min):** Walkthrough of patient login, symptom input, doctor video consult, and digital prescription flow
-- 📊 **Pitch Deck:** Problem, solution, tech stack, impact, architecture, market potential
-
----
 
 ## ✅ Conclusion
 
